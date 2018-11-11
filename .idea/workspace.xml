@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05b2a07f-d021-4c02-90fd-d21ed05e2d56" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="fragment_shader - sup.glsl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/fragment_shader - sup.glsl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6520">
+              <caret line="163" column="0" lean-forward="false" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!block;n#getBackground#0" expanded="false" />
+                <element signature="n#!!block;n#getRayDir#0" expanded="false" />
+                <element signature="n#!!block;n#min4#0" expanded="false" />
+                <element signature="n#!!block;n#cube#0" expanded="false" />
+                <element signature="n#!!block;n#cuboid#0" expanded="false" />
+                <element signature="n#!!block;n#sphere#0" expanded="false" />
+                <element signature="n#!!block;n#cone#0" expanded="false" />
+                <element signature="n#!!block;n#torus#0" expanded="false" />
+                <element signature="n#!!block;n#intersectSDF#0" expanded="false" />
+                <element signature="n#!!block;n#unionSDF#0" expanded="false" />
+                <element signature="n#!!block;n#differenceSDF#0" expanded="false" />
+                <element signature="n#!!block;n#blendSDF#0" expanded="false" />
+                <element signature="n#!!block;n#planeSDF#0" expanded="false" />
+                <element signature="n#!!block;n#dot2#0" expanded="false" />
+                <element signature="n#!!block;n#twist#0" expanded="false" />
+                <element signature="n#!!block;n#sdCapsule#0" expanded="false" />
+                <element signature="n#!!block;n#sceneSDF#0" expanded="false" />
+                <element signature="e#3367#3410#0" expanded="false" />
+                <element signature="n#!!block;n#getColor#0" expanded="false" />
+                <element signature="n#!!block;n#illuminate#0" expanded="false" />
+                <element signature="n#!!block;n#raymarch#0" expanded="false" />
+                <element signature="e#4192#4297#0" expanded="false" />
+                <element signature="e#4327#4370#0" expanded="false" />
+                <element signature="e#4395#4449#0" expanded="false" />
+                <element signature="e#4455#4524#0" expanded="false" />
+                <element signature="n#!!block;n#main#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fragment_shader - Task1.glsl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task1.glsl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3840">
+              <caret line="96" column="32" lean-forward="false" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fragment_shader - Task6.glsl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task6.glsl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="105" column="24" lean-forward="false" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
+              <folding>
+                <element signature="n#!!block;n#getBackground#0" expanded="false" />
+                <element signature="n#!!block;n#getRayDir#0" expanded="false" />
+                <element signature="n#!!block;n#min4#0" expanded="false" />
+                <element signature="n#!!block;n#sdTorusH#0" expanded="false" />
+                <element signature="n#!!block;n#sdTorusV#0" expanded="false" />
+                <element signature="n#!!block;n#sdTorusFlat#0" expanded="false" />
+                <element signature="n#!!block;n#planeSDF#0" expanded="false" />
+                <element signature="n#!!block;n#oldSceneSDF#0" expanded="false" />
+                <element signature="n#!!block;n#sceneSDF#0" expanded="false" />
+                <element signature="e#3072#3115#0" expanded="false" />
+                <element signature="n#!!block;n#getColor#0" expanded="false" />
+                <element signature="e#3344#3602#0" expanded="false" />
+                <element signature="e#3485#3518#0" expanded="false" />
+                <element signature="n#!!block;n#getShadow#0" expanded="false" />
+                <element signature="e#3734#4158#0" expanded="false" />
+                <element signature="e#3907#4152#0" expanded="false" />
+                <element signature="e#3999#4038#0" expanded="false" />
+                <element signature="e#4044#4101#0" expanded="false" />
+                <element signature="n#!!block;n#shade#0" expanded="false" />
+                <element signature="e#4593#5112#0" expanded="false" />
+                <element signature="e#4978#5107#0" expanded="false" />
+                <element signature="n#!!block;n#illuminate#0" expanded="false" />
+                <element signature="n#!!block;n#raymarch#0" expanded="false" />
+                <element signature="e#5619#5679#0" expanded="false" />
+                <element signature="e#5709#5752#0" expanded="false" />
+                <element signature="e#5777#5831#0" expanded="false" />
+                <element signature="e#5837#5906#0" expanded="false" />
+                <element signature="n#!!block;n#main#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fragment_shader - Task5.glsl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task5.glsl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-840">
+              <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fragment_shader - Task2.glsl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task2.glsl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3720">
+              <caret line="93" column="33" lean-forward="false" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="33" />
+              <folding>
+                <element signature="n#!!block;n#getBackground#0" expanded="false" />
+                <element signature="n#!!block;n#getRayDir#0" expanded="false" />
+                <element signature="n#!!block;n#min4#0" expanded="false" />
+                <element signature="n#!!block;n#cube#0" expanded="false" />
+                <element signature="n#!!block;n#sphere#0" expanded="false" />
+                <element signature="n#!!block;n#intersectSDF#0" expanded="false" />
+                <element signature="n#!!block;n#unionSDF#0" expanded="false" />
+                <element signature="n#!!block;n#differenceSDF#0" expanded="false" />
+                <element signature="n#!!block;n#blendSDF#0" expanded="false" />
+                <element signature="e#3545#3588#0" expanded="false" />
+                <element signature="n#!!block;n#raymarch#0" expanded="false" />
+                <element signature="e#4370#4475#0" expanded="false" />
+                <element signature="e#4505#4548#0" expanded="false" />
+                <element signature="e#4573#4627#0" expanded="false" />
+                <element signature="e#4633#4702#0" expanded="false" />
+                <element signature="n#!!block;n#main#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fragment_shader - Task3.glsl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task3.glsl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7960">
+              <caret line="199" column="47" lean-forward="false" selection-start-line="199" selection-start-column="47" selection-end-line="199" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TickApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/uk/ac/cam/cl/furthergfx/crsid/tick/TickApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="36" column="72" lean-forward="false" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
+              <folding>
+                <element signature="docComment;class#TickApp#0" expanded="false" />
+                <element signature="method#TickApp#0;class#TickApp#0" expanded="false" />
+                <element signature="method#init#0;class#TickApp#0" expanded="false" />
+                <element signature="method#render#0;class#TickApp#0" expanded="false" />
+                <element signature="method#onResized#0;class#TickApp#0" expanded="false" />
+                <element signature="method#onMouseDrag#0;class#TickApp#0" expanded="false" />
+                <element signature="method#onMouseScroll#0;class#TickApp#0" expanded="false" />
+                <element signature="method#onKeyPressed#0;class#TickApp#0" expanded="false" />
+                <element signature="method#maybeReloadFragmentShader#0;class#TickApp#0" expanded="false" />
+                <element signature="method#loadFragmentShader#0;class#TickApp#0" expanded="false" />
+                <element signature="method#getFragmentShaderTimestamp#0;class#TickApp#0" expanded="false" />
+                <element signature="method#loadShader#0;class#TickApp#0" expanded="false" />
+                <element signature="method#readFile#0;class#TickApp#0" expanded="false" />
+                <element signature="method#checkShader#0;class#TickApp#0" expanded="false" />
+                <element signature="method#checkError#0;class#TickApp#0" expanded="false" />
+                <element signature="method#updateAllUniforms#0;class#TickApp#0" expanded="false" />
+                <element signature="method#updateTimeUniform#0;class#TickApp#0" expanded="false" />
+                <element signature="method#updateCameraUniforms#0;class#TickApp#0" expanded="false" />
+                <element signature="method#updateUniformVec3#0;class#TickApp#0" expanded="false" />
+                <element signature="method#updateUniformFloat#0;class#TickApp#0" expanded="false" />
+                <element signature="method#updateUniformBool#0;class#TickApp#0" expanded="false" />
+                <element signature="method#updateUniformVec2#0;class#TickApp#0" expanded="false" />
+                <element signature="method#getUniformLocation#0;class#TickApp#0" expanded="false" />
+                <element signature="method#takeScreenshot#0;class#TickApp#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sphere</find>
+      <find>normal</find>
+      <find>FRAGMENT_SHADER</find>
+      <find>getC</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>cube</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/fragment_shader.glsl" />
+        <option value="$PROJECT_DIR$/resources/fragment_shader - Task1.glsl" />
+        <option value="$PROJECT_DIR$/resources/fragment_shader - Task2.glsl" />
+        <option value="$PROJECT_DIR$/resources/fragment_shader - Task3.glsl" />
+        <option value="$PROJECT_DIR$/resources/fragment_shader - Task4.glsl" />
+        <option value="$PROJECT_DIR$/resources/supTester.glsl" />
+        <option value="$PROJECT_DIR$/resources/sup.glsl" />
+        <option value="$PROJECT_DIR$/resources/fragment_shader - sup.glsl" />
+        <option value="$PROJECT_DIR$/resources/fragment_shader - Task6.glsl" />
+        <option value="$PROJECT_DIR$/src/uk/ac/cam/cl/furthergfx/crsid/tick/TickApp.java" />
+        <option value="$PROJECT_DIR$/resources/fragment_shader - Task5.glsl" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-3" />
+    <option name="width" value="3217" />
+    <option name="height" value="1714" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GraphicsTick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GraphicsTick" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GraphicsTick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GraphicsTick" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GraphicsTick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GraphicsTick" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GraphicsTick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GraphicsTick" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tick" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sumaiyah\Documents\Univeristy\Second Year\Michealmas\GraphicsTick\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Tick">
+    <configuration name="Tick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.cam.cl.furthergfx.crsid.tick.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="uk.ac.cam.cl.furthergfx.crsid.tick.Tick" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=lib/LWJGL/native/windows" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GraphicsTick" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Tick" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05b2a07f-d021-4c02-90fd-d21ed05e2d56" name="Default" comment="" />
+      <created>1538817676769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538817676769</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3" y="0" width="3217" height="1714" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987553" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32572615" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26969206" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994374" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader - sup.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#getBackground#0" expanded="false" />
+            <element signature="n#!!block;n#getRayDir#0" expanded="false" />
+            <element signature="n#!!block;n#min4#0" expanded="false" />
+            <element signature="n#!!block;n#cube#0" expanded="false" />
+            <element signature="n#!!block;n#cuboid#0" expanded="false" />
+            <element signature="n#!!block;n#sphere#0" expanded="false" />
+            <element signature="n#!!block;n#cone#0" expanded="false" />
+            <element signature="n#!!block;n#torus#0" expanded="false" />
+            <element signature="n#!!block;n#intersectSDF#0" expanded="false" />
+            <element signature="n#!!block;n#unionSDF#0" expanded="false" />
+            <element signature="n#!!block;n#differenceSDF#0" expanded="false" />
+            <element signature="n#!!block;n#blendSDF#0" expanded="false" />
+            <element signature="n#!!block;n#planeSDF#0" expanded="false" />
+            <element signature="n#!!block;n#dot2#0" expanded="false" />
+            <element signature="n#!!block;n#twist#0" expanded="false" />
+            <element signature="n#!!block;n#sdCapsule#0" expanded="false" />
+            <element signature="n#!!block;n#sceneSDF#0" expanded="false" />
+            <element signature="e#3367#3410#0" expanded="false" />
+            <element signature="n#!!block;n#getColor#0" expanded="false" />
+            <element signature="n#!!block;n#illuminate#0" expanded="false" />
+            <element signature="n#!!block;n#raymarch#0" expanded="false" />
+            <element signature="e#4192#4297#0" expanded="false" />
+            <element signature="e#4327#4370#0" expanded="false" />
+            <element signature="e#4395#4449#0" expanded="false" />
+            <element signature="e#4455#4524#0" expanded="false" />
+            <element signature="n#!!block;n#main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sup.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task6.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4800">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/ac/cam/cl/furthergfx/crsid/tick/TickApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+          <caret line="38" column="27" lean-forward="false" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+          <folding>
+            <element signature="docComment;class#TickApp#0" expanded="false" />
+            <element signature="method#TickApp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#init#0;class#TickApp#0" expanded="false" />
+            <element signature="method#render#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onResized#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseDrag#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseScroll#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onKeyPressed#0;class#TickApp#0" expanded="false" />
+            <element signature="method#maybeReloadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getFragmentShaderTimestamp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#readFile#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkError#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateAllUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateTimeUniform#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateCameraUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec3#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformFloat#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformBool#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec2#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getUniformLocation#0;class#TickApp#0" expanded="false" />
+            <element signature="method#takeScreenshot#0;class#TickApp#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task6.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4800">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/ac/cam/cl/furthergfx/crsid/tick/TickApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+          <caret line="38" column="27" lean-forward="false" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+          <folding>
+            <element signature="docComment;class#TickApp#0" expanded="false" />
+            <element signature="method#TickApp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#init#0;class#TickApp#0" expanded="false" />
+            <element signature="method#render#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onResized#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseDrag#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseScroll#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onKeyPressed#0;class#TickApp#0" expanded="false" />
+            <element signature="method#maybeReloadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getFragmentShaderTimestamp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#readFile#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkError#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateAllUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateTimeUniform#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateCameraUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec3#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformFloat#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformBool#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec2#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getUniformLocation#0;class#TickApp#0" expanded="false" />
+            <element signature="method#takeScreenshot#0;class#TickApp#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task6.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4800">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/ac/cam/cl/furthergfx/crsid/tick/TickApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+          <caret line="38" column="27" lean-forward="true" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+          <folding>
+            <element signature="docComment;class#TickApp#0" expanded="false" />
+            <element signature="method#TickApp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#init#0;class#TickApp#0" expanded="false" />
+            <element signature="method#render#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onResized#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseDrag#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseScroll#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onKeyPressed#0;class#TickApp#0" expanded="false" />
+            <element signature="method#maybeReloadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getFragmentShaderTimestamp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#readFile#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkError#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateAllUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateTimeUniform#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateCameraUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec3#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformFloat#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformBool#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec2#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getUniformLocation#0;class#TickApp#0" expanded="false" />
+            <element signature="method#takeScreenshot#0;class#TickApp#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task6.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4800">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/ac/cam/cl/furthergfx/crsid/tick/TickApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="36" column="72" lean-forward="false" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
+          <folding>
+            <element signature="docComment;class#TickApp#0" expanded="false" />
+            <element signature="method#TickApp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#init#0;class#TickApp#0" expanded="false" />
+            <element signature="method#render#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onResized#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseDrag#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseScroll#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onKeyPressed#0;class#TickApp#0" expanded="false" />
+            <element signature="method#maybeReloadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getFragmentShaderTimestamp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#readFile#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkError#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateAllUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateTimeUniform#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateCameraUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec3#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformFloat#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformBool#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec2#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getUniformLocation#0;class#TickApp#0" expanded="false" />
+            <element signature="method#takeScreenshot#0;class#TickApp#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task6.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4800">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/ac/cam/cl/furthergfx/crsid/tick/TickApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="36" column="72" lean-forward="false" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
+          <folding>
+            <element signature="docComment;class#TickApp#0" expanded="false" />
+            <element signature="method#TickApp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#init#0;class#TickApp#0" expanded="false" />
+            <element signature="method#render#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onResized#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseDrag#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseScroll#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onKeyPressed#0;class#TickApp#0" expanded="false" />
+            <element signature="method#maybeReloadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getFragmentShaderTimestamp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#readFile#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkError#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateAllUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateTimeUniform#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateCameraUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec3#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformFloat#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformBool#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec2#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getUniformLocation#0;class#TickApp#0" expanded="false" />
+            <element signature="method#takeScreenshot#0;class#TickApp#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task6.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/ac/cam/cl/furthergfx/crsid/tick/TickApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="36" column="72" lean-forward="false" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
+          <folding>
+            <element signature="docComment;class#TickApp#0" expanded="false" />
+            <element signature="method#TickApp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#init#0;class#TickApp#0" expanded="false" />
+            <element signature="method#render#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onResized#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseDrag#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseScroll#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onKeyPressed#0;class#TickApp#0" expanded="false" />
+            <element signature="method#maybeReloadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getFragmentShaderTimestamp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#readFile#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkError#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateAllUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateTimeUniform#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateCameraUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec3#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformFloat#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformBool#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec2#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getUniformLocation#0;class#TickApp#0" expanded="false" />
+            <element signature="method#takeScreenshot#0;class#TickApp#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task6.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/ac/cam/cl/furthergfx/crsid/tick/TickApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="36" column="72" lean-forward="false" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
+          <folding>
+            <element signature="docComment;class#TickApp#0" expanded="false" />
+            <element signature="method#TickApp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#init#0;class#TickApp#0" expanded="false" />
+            <element signature="method#render#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onResized#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseDrag#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseScroll#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onKeyPressed#0;class#TickApp#0" expanded="false" />
+            <element signature="method#maybeReloadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getFragmentShaderTimestamp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#readFile#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkError#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateAllUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateTimeUniform#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateCameraUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec3#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformFloat#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformBool#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec2#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getUniformLocation#0;class#TickApp#0" expanded="false" />
+            <element signature="method#takeScreenshot#0;class#TickApp#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task6.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/ac/cam/cl/furthergfx/crsid/tick/TickApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1287">
+          <caret line="33" column="67" lean-forward="true" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
+          <folding>
+            <element signature="docComment;class#TickApp#0" expanded="false" />
+            <element signature="method#TickApp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#init#0;class#TickApp#0" expanded="false" />
+            <element signature="method#render#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onResized#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseDrag#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseScroll#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onKeyPressed#0;class#TickApp#0" expanded="false" />
+            <element signature="method#maybeReloadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getFragmentShaderTimestamp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#readFile#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkError#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateAllUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateTimeUniform#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateCameraUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec3#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformFloat#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformBool#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec2#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getUniformLocation#0;class#TickApp#0" expanded="false" />
+            <element signature="method#takeScreenshot#0;class#TickApp#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task6.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4760">
+          <caret line="119" column="0" lean-forward="true" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/ac/cam/cl/furthergfx/crsid/tick/TickApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="36" column="72" lean-forward="false" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
+          <folding>
+            <element signature="docComment;class#TickApp#0" expanded="false" />
+            <element signature="method#TickApp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#init#0;class#TickApp#0" expanded="false" />
+            <element signature="method#render#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onResized#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseDrag#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseScroll#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onKeyPressed#0;class#TickApp#0" expanded="false" />
+            <element signature="method#maybeReloadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getFragmentShaderTimestamp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#readFile#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkError#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateAllUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateTimeUniform#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateCameraUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec3#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformFloat#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformBool#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec2#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getUniformLocation#0;class#TickApp#0" expanded="false" />
+            <element signature="method#takeScreenshot#0;class#TickApp#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task3.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7480">
+          <caret line="187" column="28" lean-forward="false" selection-start-line="187" selection-start-column="28" selection-end-line="187" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1404">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="102" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/ac/cam/cl/furthergfx/crsid/tick/Tick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/backupfragment_shader - Task2.glsl" />
+    <entry file="file://$PROJECT_DIR$/resources/BACKUPfragment_shader - Task5.glsl" />
+    <entry file="file://$PROJECT_DIR$/Task1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task4.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="130" column="26" lean-forward="false" selection-start-line="130" selection-start-column="26" selection-end-line="130" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/BACKUPfragment_shader - Task6.glsl" />
+    <entry file="file://$PROJECT_DIR$/Task3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/supTester.glsl" />
+    <entry file="file://$PROJECT_DIR$/Task6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sup.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader - sup.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6520">
+          <caret line="163" column="0" lean-forward="false" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#getBackground#0" expanded="false" />
+            <element signature="n#!!block;n#getRayDir#0" expanded="false" />
+            <element signature="n#!!block;n#min4#0" expanded="false" />
+            <element signature="n#!!block;n#cube#0" expanded="false" />
+            <element signature="n#!!block;n#cuboid#0" expanded="false" />
+            <element signature="n#!!block;n#sphere#0" expanded="false" />
+            <element signature="n#!!block;n#cone#0" expanded="false" />
+            <element signature="n#!!block;n#torus#0" expanded="false" />
+            <element signature="n#!!block;n#intersectSDF#0" expanded="false" />
+            <element signature="n#!!block;n#unionSDF#0" expanded="false" />
+            <element signature="n#!!block;n#differenceSDF#0" expanded="false" />
+            <element signature="n#!!block;n#blendSDF#0" expanded="false" />
+            <element signature="n#!!block;n#planeSDF#0" expanded="false" />
+            <element signature="n#!!block;n#dot2#0" expanded="false" />
+            <element signature="n#!!block;n#twist#0" expanded="false" />
+            <element signature="n#!!block;n#sdCapsule#0" expanded="false" />
+            <element signature="n#!!block;n#sceneSDF#0" expanded="false" />
+            <element signature="e#3367#3410#0" expanded="false" />
+            <element signature="n#!!block;n#getColor#0" expanded="false" />
+            <element signature="n#!!block;n#illuminate#0" expanded="false" />
+            <element signature="n#!!block;n#raymarch#0" expanded="false" />
+            <element signature="e#4192#4297#0" expanded="false" />
+            <element signature="e#4327#4370#0" expanded="false" />
+            <element signature="e#4395#4449#0" expanded="false" />
+            <element signature="e#4455#4524#0" expanded="false" />
+            <element signature="n#!!block;n#main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task1.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3840">
+          <caret line="96" column="32" lean-forward="false" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task3.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7960">
+          <caret line="199" column="47" lean-forward="false" selection-start-line="199" selection-start-column="47" selection-end-line="199" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task2.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3720">
+          <caret line="93" column="33" lean-forward="false" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!block;n#getBackground#0" expanded="false" />
+            <element signature="n#!!block;n#getRayDir#0" expanded="false" />
+            <element signature="n#!!block;n#min4#0" expanded="false" />
+            <element signature="n#!!block;n#cube#0" expanded="false" />
+            <element signature="n#!!block;n#sphere#0" expanded="false" />
+            <element signature="n#!!block;n#intersectSDF#0" expanded="false" />
+            <element signature="n#!!block;n#unionSDF#0" expanded="false" />
+            <element signature="n#!!block;n#differenceSDF#0" expanded="false" />
+            <element signature="n#!!block;n#blendSDF#0" expanded="false" />
+            <element signature="e#3545#3588#0" expanded="false" />
+            <element signature="n#!!block;n#raymarch#0" expanded="false" />
+            <element signature="e#4370#4475#0" expanded="false" />
+            <element signature="e#4505#4548#0" expanded="false" />
+            <element signature="e#4573#4627#0" expanded="false" />
+            <element signature="e#4633#4702#0" expanded="false" />
+            <element signature="n#!!block;n#main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/ac/cam/cl/furthergfx/crsid/tick/TickApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="36" column="72" lean-forward="false" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
+          <folding>
+            <element signature="docComment;class#TickApp#0" expanded="false" />
+            <element signature="method#TickApp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#init#0;class#TickApp#0" expanded="false" />
+            <element signature="method#render#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onResized#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseDrag#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onMouseScroll#0;class#TickApp#0" expanded="false" />
+            <element signature="method#onKeyPressed#0;class#TickApp#0" expanded="false" />
+            <element signature="method#maybeReloadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadFragmentShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getFragmentShaderTimestamp#0;class#TickApp#0" expanded="false" />
+            <element signature="method#loadShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#readFile#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkShader#0;class#TickApp#0" expanded="false" />
+            <element signature="method#checkError#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateAllUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateTimeUniform#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateCameraUniforms#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec3#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformFloat#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformBool#0;class#TickApp#0" expanded="false" />
+            <element signature="method#updateUniformVec2#0;class#TickApp#0" expanded="false" />
+            <element signature="method#getUniformLocation#0;class#TickApp#0" expanded="false" />
+            <element signature="method#takeScreenshot#0;class#TickApp#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task5.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-840">
+          <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fragment_shader - Task6.glsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="105" column="24" lean-forward="false" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!block;n#getBackground#0" expanded="false" />
+            <element signature="n#!!block;n#getRayDir#0" expanded="false" />
+            <element signature="n#!!block;n#min4#0" expanded="false" />
+            <element signature="n#!!block;n#sdTorusH#0" expanded="false" />
+            <element signature="n#!!block;n#sdTorusV#0" expanded="false" />
+            <element signature="n#!!block;n#sdTorusFlat#0" expanded="false" />
+            <element signature="n#!!block;n#planeSDF#0" expanded="false" />
+            <element signature="n#!!block;n#oldSceneSDF#0" expanded="false" />
+            <element signature="n#!!block;n#sceneSDF#0" expanded="false" />
+            <element signature="e#3072#3115#0" expanded="false" />
+            <element signature="n#!!block;n#getColor#0" expanded="false" />
+            <element signature="e#3344#3602#0" expanded="false" />
+            <element signature="e#3485#3518#0" expanded="false" />
+            <element signature="n#!!block;n#getShadow#0" expanded="false" />
+            <element signature="e#3734#4158#0" expanded="false" />
+            <element signature="e#3907#4152#0" expanded="false" />
+            <element signature="e#3999#4038#0" expanded="false" />
+            <element signature="e#4044#4101#0" expanded="false" />
+            <element signature="n#!!block;n#shade#0" expanded="false" />
+            <element signature="e#4593#5112#0" expanded="false" />
+            <element signature="e#4978#5107#0" expanded="false" />
+            <element signature="n#!!block;n#illuminate#0" expanded="false" />
+            <element signature="n#!!block;n#raymarch#0" expanded="false" />
+            <element signature="e#5619#5679#0" expanded="false" />
+            <element signature="e#5709#5752#0" expanded="false" />
+            <element signature="e#5777#5831#0" expanded="false" />
+            <element signature="e#5837#5906#0" expanded="false" />
+            <element signature="n#!!block;n#main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
